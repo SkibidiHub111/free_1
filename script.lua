@@ -82,9 +82,9 @@ function AntiBan()
 	
 ------// BLOX FRUIT
 --// Sea world
-First_Sea = false
-Second_Sea = false
-Third_Sea = false
+First_Sea = true
+Second_Sea = true
+Third_Sea = true
 local placeId = game.PlaceId
 if placeId == 2753915549 then
 First_Sea = true
